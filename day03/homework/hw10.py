@@ -1,0 +1,1 @@
+print("me yvela "+"feri miyvars "+"gamorcheulad arcerti")
