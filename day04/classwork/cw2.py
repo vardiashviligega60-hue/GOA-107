@@ -1,4 +1,4 @@
-my_fav_car = "BMW"
+my_fav_car = "BMW "
 just_car = "tesla"
 result = "ჩემი საყვარელი მანქანაა BMW "
 
